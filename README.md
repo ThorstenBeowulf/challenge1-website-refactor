@@ -25,6 +25,6 @@ This work is licenced under an MIT License.
 
 Non-original work may be subject to seperate licencing.
 
-All original work in this repository is Copyright (c) 2023 Thorsten.
+All original work in this repository is Copyright (c) 2023 Thorsten Beowulf.
 
 Content sourced from other repositories is the copyright of their respective authors.
